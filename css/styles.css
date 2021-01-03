@@ -536,6 +536,9 @@ a {
   .reviewbox {
     padding-left: 5rem;
   }
+  .story-img {
+    padding-left: 5rem;
+  }
 }
 @media only screen and (max-width: 576px) {
   html {
