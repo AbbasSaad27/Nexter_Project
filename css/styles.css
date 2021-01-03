@@ -431,7 +431,7 @@ a {
     grid-template-columns: 100%;
     grid-template-rows:
       8rem min-content auto min-content min-content
-      auto 50% min-content;
+      auto auto min-content;
   }
   .sidebar {
     grid-row: 1 / 2;
